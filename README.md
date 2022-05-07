@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Jordenng
 - 👀 I’m interested in web developement.
-- 📫 How to reach me: nagel.yarden@gmail.com 
-
-
-
-
 
 
 
